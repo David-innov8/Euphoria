@@ -1,0 +1,5 @@
+@font-face {
+    font-family: 'Causten'; /* Name your custom font */
+    src:  url('./fonts/Causten-BlackOblique.otf') format('opentype');
+    /* Add other font-face properties as needed, such as font-weight and font-style */
+  }
