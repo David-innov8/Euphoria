@@ -7,7 +7,7 @@ import Countries from './Countries';
 
 function NavbarLogin() {
   return (
-    <nav className="flex justify-between items-center py-8 px-20">
+    <nav className="flex justify-between  bg-[#F6F6F6] items-center py-6 px-20">
     <div className="logo ">
       <img src={Logo} alt="" />
     </div>
